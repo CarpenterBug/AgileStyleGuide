@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Agile Manifesto](#agile-manifesto)
+- [Scrum](#scrum)
 
 ## Agile Manifesto
 ### **Values**
@@ -27,3 +28,13 @@
 1. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 Source: [Agile Manifesto](https://agilemanifesto.org/)
+
+## Scrum
+Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+
+In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+
+- A Product Owner orders the work for a complex problem into a Product Backlog.
+- The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
+- The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
+- *Repeat*
